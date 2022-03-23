@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Deep patle, Er
+## i like playing game
+which *game* you like
